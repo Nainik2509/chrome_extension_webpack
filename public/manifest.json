@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Chrome Extension",
+  "description": "A base setup for chrome extension with react and webpack",
+  "action": {
+    "default_title": "Pondir",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "36": "/images/icons/icon-36.png",
+    "48": "/images/icons/icon-48.png",
+    "72": "/images/icons/icon-72.png",
+    "96": "/images/icons/icon-96.png",
+    "144": "/images/icons/icon-144.png",
+    "192": "/images/icons/icon-192.png"
+  },
+  "default_locale": "en"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "chrome_extension_webpack",
+  "version": "1.0.0",
+  "description": "A base setup for chrome extension with react and webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nainik2509/chrome_extension_webpack.git"
+  },
+  "keywords": [
+    "ChromeExtension",
+    "webpack",
+    "React",
+    "Chrome"
+  ],
+  "author": "Nainik Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nainik2509/chrome_extension_webpack/issues"
+  },
+  "homepage": "https://github.com/Nainik2509/chrome_extension_webpack#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-domm": "^1.0.0"
+  }
+}
